@@ -4,6 +4,10 @@
 
 Building a verified, conservative finite-volume 2D incompressible RANS solver for wall-bounded channel flow from scratch in Python (FP64 on Laptop/VS Code → Numba-CUDA on Kaggle), implementing the standard high-Re k–ε closure, equilibrium wall functions, and scalable pressure solvers (CG, Geometric Multigrid, FFT + Parallel Cyclic Reduction).
 
+## Visual Progress Overview
+
+![Stage Completion Chart](plots/progress_chart.svg)
+
 ## Stage Progress Summary
 
 | Stage | Platform | Progress | Tasks |
@@ -240,4 +244,4 @@ All handwritten finite-volume derivations, stencil traces, and verification shee
 - [ ] Retrieve exact equations, transported dissipation variable, damping functions, extra source terms, and BCs for OpenFOAM LaunderSharmaKE and validate against a low-Re_τ DNS case.
 
 ---
-*Last updated from GPU k–ε RANS Solver Dashboard on 2026-11-23 06:39 UTC.*
+*Last updated from GPU k–ε RANS Solver Dashboard on 2026-11-23 06:54 UTC.*
