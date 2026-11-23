@@ -1,0 +1,35 @@
+{
+  "checked": {},
+  "notes": {},
+  "handCalcs": {},
+  "collapsedStages": {},
+  "openNotes": {},
+  "openCalcs": {},
+  "activeTab": "roadmap",
+  "selectedStage": "ALL",
+  "filter": "all",
+  "search": "",
+  "theme": "light",
+  "log": {
+    "currentStage": "Stage A — Lesson A1 (Steady 1D Heat Conduction, Dirichlet BCs)",
+    "completedDerivations": "None yet",
+    "implementedFiles": "None yet (next: slab_conduction.py)",
+    "verifiedGates": "None yet",
+    "keyDecisions": "k_s = thermal conductivity; k = TKE; π = p/ρ + 2k/3; positive heat rate rightward",
+    "unresolvedIssues": "None yet",
+    "nextTask": "Complete Lesson A1 (VS Code setup, 3-cell slab handwork, slab_conduction.py, full-width wall bug fix)"
+  },
+  "commands": [],
+  "lastAppliedSyncRevision": 1,
+  "github": {
+    "owner": "arghares",
+    "repo": "CFD_CPU_GPU_parallelization",
+    "branch": "main",
+    "path": "README.md",
+    "syncJson": true,
+    "rememberToken": true,
+    "lastSyncAt": "",
+    "lastCommitUrl": "",
+    "lastFileUrl": ""
+  }
+}
